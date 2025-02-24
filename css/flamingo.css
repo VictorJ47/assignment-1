@@ -1,0 +1,28 @@
+body {
+    font-family: Courier New;
+    background-color: rgb(225, 117, 218);
+    text-align: center;
+    font-weight: bold;
+  }
+  
+  .flamingo-pic {
+    width: 300px;
+    height: auto;
+  }
+
+  .home-button {
+    display: inline-block;
+    padding: 10px 15px;
+    background-color: #0077cc; 
+    color: white; 
+    text-decoration: none; 
+    font-weight: bold;
+    border-radius: 5px; 
+    position: absolute;
+    top: 10px;
+    left: 10px;
+  }
+  
+  .home-button:hover {
+    background-color: #005fa3; 
+  }
